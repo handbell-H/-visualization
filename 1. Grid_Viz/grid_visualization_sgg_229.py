@@ -18,12 +18,11 @@ def set_korean_font():
 set_korean_font()
 
 # 데이터 불러오기
-#data_path = '//nas1.krihs.re.kr/profile/20230003/Desktop/손종혁 국토연구원/지도그리기 연습/보고서표지.csv'
-my_data_path = '//nas1.krihs.re.kr/profile/20230003/Desktop/손종혁 국토연구원/지도그리기 연습/보고서표지.csv'
+my_data_path = 'my_data_path'
 
-data_grid_sgg = pd.read_csv(my_data_path, index_col=0, encoding='euc-kr')
+data_grid_sgg = pd.read_csv(my_data_path, encoding='euc-kr')
 
-def grid_sgg(target_data, blocked_map, region_col, subregion_col, cmap_name, save_path, white_label_min=50, gamma=0.75):
+def grid_sgg(target_data, blocked_map, region_col, subregion_col, cmap_name, save_path, white_label_min=50):
     BORDER_LINES = [
         [(3, 1),(3, 2), (5, 2), (5, 3), (9, 3), (9, 0)],  # 인천
         [(1, 5), (3, 5), (3, 4), (8, 4), (8, 7), (7, 7), (7, 9), (4, 9), (4, 7), (1, 7)],  # 서울
@@ -69,7 +68,7 @@ def grid_sgg(target_data, blocked_map, region_col, subregion_col, cmap_name, sav
 
     for path in BORDER_LINES:
         ys, xs = zip(*path)
-        plt.plot(xs, ys, c='Green', lw=3)
+        plt.plot(xs, ys, c='Black', lw=3)
 
     plt.gca().invert_yaxis()
     plt.axis('off')
@@ -78,8 +77,8 @@ def grid_sgg(target_data, blocked_map, region_col, subregion_col, cmap_name, sav
     cb.set_label('비율')
 
     plt.tight_layout()
-    plt.savefig(save_path, dpi=1000)
+    plt.savefig(save_path, dpi=300)
 
-save_path = '//nas1.krihs.re.kr/profile/20230003/Desktop/보고서표지5.png'
+save_path = 'save_path'
 
-grid_sgg('보고서이미지용', data_grid_sgg, '광역시도', '행정구역', 'Greens', save_path)
+grid_sgg('value', data_grid_sgg, 'sido_nm', 'sgg_nm', 'Greens', save_path)
