@@ -8,5 +8,5 @@
 
 ###### 코드를 공개해주신 장혜식(서울대) 교수님께 감사 인사드립니다.
 
-![이미지 경로](https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png){: width="100" height="100"}
+![이미지 경로](https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png){: width="70" height="70"}
 
