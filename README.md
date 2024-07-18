@@ -6,7 +6,7 @@
 * DATA : 국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표 - 어린이집 서비스권역 내 영유아인구비율
 * Language : Python 3.7.0
 
-! [격자이미지](https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png)
+![격자이미지](https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png)
 
 <img src="[https://url/image.png](https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png)" width="50" height="50"/>
 
