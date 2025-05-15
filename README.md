@@ -8,11 +8,11 @@
 
 <img src="https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png" width=100% height=100%/>
 
-###### 격자 위치를 만들어주신 장혜식(서울대) 교수님께 감사 인사드립니다.
-
 1. 229개 시군구 위치에 꺾은선 그래프 채워 넣기
 -------------
 * DATA : 통계청 - 시군구별 총인구
 * Language : Python 3.12.0
 
+  <img src="https://github.com/handbell-H/-visualization/2. Grid_Broken_line_graph/grid_broken_line_graph.png" width=100% height=100%/>
 
+###### 격자 위치를 만들어주신 장혜식(서울대) 교수님께 감사 인사드립니다.
