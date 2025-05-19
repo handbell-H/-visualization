@@ -18,7 +18,7 @@ Language : Python
 -------------
 
 3. 17개 시도별 생활인프라 충족도 산출 후 바이올렛 차트 그리기
-* DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정채고가 국토모니터링 사업)
+* DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업)
 
  <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violet%20plot%20by%20city/Violet%20plot%20by%20city_Horizontal.png" width=100% height=100%/>
 
