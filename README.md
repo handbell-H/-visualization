@@ -1,4 +1,4 @@
-시각화 해보기
+데이터 시각화
 =============
 Language : Python
 
@@ -13,13 +13,18 @@ Language : Python
 * DATA : 통계청 - 시군구별 총인구
  <img src="https://github.com/handbell-H/-visualization/blob/main/2.%20Grid_Broken_line_graph/grid_broken_line_graph.png" width=100% height=100%/>
 
-###### 격자 위치를 만들어주신 장혜식(서울대) 교수님께 감사 인사드립니다.
+###### 격자 위치 생산 : 장혜식(서울대) 교수님, 손종혁 일부 수정
 
 -------------
 
-3. 17개 시도별 생활인프라 충족도 산출 후 바이올렛 차트 그리기
-* DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업)
+3-1. 17개 시도별 생활인프라 충족도 산출 후 바이올렛 차트 그리기(가로)
+* DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업 내부자료)
 
  <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violet%20plot%20by%20city/Violet%20plot%20by%20city_Horizontal.png" width=100% height=100%/>
+
+ 3-2. 17개 시도별 생활인프라 충족도 산출 후 바이올렛 차트 그리기(세로)
+* DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업 내부자료)
+
+ <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violet%20plot%20by%20city/Violet%20plot%20by%20city_vertical.png" width=100% height=100%/>
 
 
