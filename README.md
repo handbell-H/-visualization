@@ -1,4 +1,5 @@
 데이터 시각화
+문의 : handbell@krihs.re.kr
 =============
 Language : Python
 
@@ -17,14 +18,20 @@ Language : Python
 
 -------------
 
-3-1. 17개 시도별 생활인프라 충족도 산출 후 바이올렛 차트 그리기(가로)
+3-1. 17개 시도별 생활인프라 충족도 산출 후 바이올린 차트 그리기(가로)
 * DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업 내부자료)
 
- <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violet%20plot%20by%20city/Violet%20plot%20by%20city_Horizontal.png" width=100% height=100%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violin%20plot%20by%20city/Violin%20plot%20by%20city_Horizontal.png" width=100% height=100%/>
 
- 3-2. 17개 시도별 생활인프라 충족도 산출 후 바이올렛 차트 그리기(세로)
+3-2. 17개 시도별 생활인프라 충족도 산출 후 바이올린 차트 그리기(세로)
 * DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업 내부자료)
 
- <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violet%20plot%20by%20city/Violet%20plot%20by%20city_vertical.png" width=100% height=100%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violin%20plot%20by%20city/Violin%20plot%20by%20city_vertical.png" width=100% height=100%/>
+
+4. 생활인프라 충족도 산출 후 2분할 바이올린 차트그리기 (2019년 vs 2023년) 
+* DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 총인구 & 국토지표) 
+** 초등학교, 어린이집, 도서관, 의원, 생활권공원, 종합사회복지관, 노인여가복지시설, 보건기관, 응급의료시설, 공공체육시설 500m 격자 접근성 및 총 인구
+  
+ <img src="https://github.com/handbell-H/-visualization/blob/main/4.%20Violin%20plot%20by%20city_2%20year%20comparison/Violin%20plot%20by%20city_2%20year%20comparison.png" width=100% height=100%/>
 
 
