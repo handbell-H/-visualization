@@ -28,14 +28,19 @@ Language : Python
 
  <img src="https://github.com/handbell-H/-visualization/blob/main/3.%20Violin%20plot%20by%20city/Violin%20plot%20by%20city_vertical.png" width=100% height=100%/>
 
+-------------
+
 4. 생활인프라 충족도 산출 후 2분할 바이올린 차트그리기 (2019년 vs 2023년) 
 * DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 총인구 & 국토지표) 
 ** 초등학교, 어린이집, 도서관, 의원, 생활권공원, 종합사회복지관, 노인여가복지시설, 보건기관, 응급의료시설, 공공체육시설 500m 격자 접근성 및 총 인구
   
  <img src="https://github.com/handbell-H/-visualization/blob/main/4.%20Violin%20plot%20by%20city_2%20year%20comparison/Violin%20plot%20by%20city_2%20year%20comparison.png" width=100% height=100%/>
 
+-------------
+
 5. 21대 대선 지역별 개표 결과 그리기 (기호 1번,기호 2번, 그외)
 * DATA : (나무위키 - 21대 대선 지역별 득표 결과로 자체 제작)
+* 영남지역 행정구가 많구나. 몰려보일 수 있겠다.
   
  <img src="https://github.com/handbell-H/-visualization/blob/main/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results_v1.png" width=100% height=100%/>
 
