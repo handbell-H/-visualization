@@ -1,6 +1,6 @@
 문의 : skrtodrh123@naver.com
 
-#폴더 들어가서 확대하여 보세요.
+폴더 내 확대본으로 보세요.
 =============
 Language : Python
 
