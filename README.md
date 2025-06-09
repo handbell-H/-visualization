@@ -34,4 +34,8 @@ Language : Python
   
  <img src="https://github.com/handbell-H/-visualization/blob/main/4.%20Violin%20plot%20by%20city_2%20year%20comparison/Violin%20plot%20by%20city_2%20year%20comparison.png" width=100% height=100%/>
 
+5. 21대 대선 지역별 개표 결과 그리기 (기호 1번,기호 2번, 그외)
+* DATA : (나무위키 - 21대 대선 지역별 득표 결과로 자체 제작)
+  
+ <img src="https://github.com/handbell-H/-visualization/blob/main/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results_v1.png" width=100% height=100%/>
 
