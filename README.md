@@ -1,12 +1,11 @@
-데이터 시각화
-문의 : handbell@krihs.re.kr
+문의 : skrtodrh123@naver.com
 =============
 Language : Python
 
 1. 229개 시군구를 위치에 히트맵 채워 넣기
 * DATA : 국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표 - 어린이집 서비스권역 내 영유아인구비율
 
- <img src="https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png" width=100% height=100%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/9646a63561caa58db25e3eb3d57d2783faf7409c/1.%20Grid_Viz/grid_visualization_sgg_299.png" width=70% height=70%/>
 
 -------------
 
@@ -42,5 +41,5 @@ Language : Python
 * DATA : (나무위키 - 21대 대선 지역별 득표 결과로 자체 제작)
 * 영남지역 행정구가 많구나. 몰려보일 수 있겠다.
   
- <img src="https://github.com/handbell-H/-visualization/blob/main/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results_v1.png" width=100% height=100%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/main/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results_v2.png" width=100% height=100%/>
 
