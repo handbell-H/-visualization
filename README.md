@@ -43,7 +43,7 @@ Language : Python
 * DATA : (나무위키 - 21대 대선 지역별 득표 결과로 자체 제작)
 * 영남지역 행정구가 많구나. 몰려보일 수 있겠다.
   
- <img src="https://github.com/handbell-H/-visualization/blob/main/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results/5.%20Ratio%20polt%20by%2021th%20presidential%20election%20results_v2.png" width=70% height=70%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/main/5.%20Ratio%20plot%20by%2021th%20presidential%20election%20results/5.%20Ratio%20plot%20by%2021th%20presidential%20election%20results_v2.png" width=70% height=70%/>
 
 6. 시군구-월별 인구 스프링 모양으로 그려보기 (용어가 있나..?)
 * DATA : (통계청 -  행정구역(시군구)별, 성별 인구수 (2011년 1월 ~ 2025년 5월))
