@@ -49,11 +49,11 @@ Language : Python
 * DATA : (통계청 -  행정구역(시군구)별, 성별 인구수 (2011년 1월 ~ 2025년 5월))
 * 패턴을 직관적으로 보기 좋은것 같다. 그려볼만한 월별 시계열 데이터 좋은게 있을까. 
   
- <img src="https://github.com/handbell-H/-visualization/blob/main/6.%203D%20spring%20plot%20-%20Monthly%20population%20by%20city/6.%203D%20spring%20plot%20-%20Monthly%20population%20by%20city.jpg" width=70% height=70%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/main/6.%203D%20spring%20plot%20-%20Monthly%20population%20by%20city/6.%203D%20spring%20plot%20-%20Monthly%20population%20by%20city.jpg" width=100% height=100%/>
 
 7. 서울시 구별 아파트 거래가 릿지플롯 그리
 * DATA : (서울특별시 -  열린데이터광장 - 서울시 부동산 실거래가 정보(2025년))
 * 627 부동산 대책이 이슈다. 서울시 아파트가 이렇게 많이 오르다니, 내 고향 강동구도 선방 중이다.
 * 강남, 서초, 성동, 용산에는 100억이 넘는 아파트들이.. 많아서 그래프가 ..
   
- <img src="https://github.com/handbell-H/-visualization/blob/main/7.%20ridgeplot%20by%20seoul%20apt%20price/7.%20ridgeplot%20by%20seoul%20apt%20price.png" width=70% height=70%/>
+ <img src="https://github.com/handbell-H/-visualization/blob/main/7.%20ridgeplot%20by%20seoul%20apt%20price/7.%20ridgeplot%20by%20seoul%20apt%20price.png" width=100% height=100%/>
