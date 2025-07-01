@@ -51,9 +51,16 @@ Language : Python
   
  <img src="https://github.com/handbell-H/-visualization/blob/main/6.%203D%20spring%20plot%20-%20Monthly%20population%20by%20city/6.%203D%20spring%20plot%20-%20Monthly%20population%20by%20city.jpg" width=100% height=100%/>
 
-7. 서울시 구별 아파트 거래가 릿지플롯 그리
+7. 서울시 구별 아파트 거래금액 릿지플롯 그리기
 * DATA : (서울특별시 -  열린데이터광장 - 서울시 부동산 실거래가 정보(2025년))
 * 627 부동산 대책이 이슈다. 서울시 아파트가 이렇게 많이 오르다니, 내 고향 강동구도 선방 중이다.
 * 강남, 서초, 성동, 용산에는 100억이 넘는 아파트들이.. 많아서 그래프가 ..
   
  <img src="https://github.com/handbell-H/-visualization/blob/main/7.%20ridgeplot%20by%20seoul%20apt%20price/7.%20ridgeplot%20by%20seoul%20apt%20price.png" width=100% height=100%/>
+
+8. 서울시 구별 아파트 거래금액 릿지플롯 2개 겹쳐 그리기
+* DATA : (서울특별시 -  열린데이터광장 - 서울시 부동산 실거래가 정보(2024, 2025년))
+* 가독성을 위해 50억이 넘는 아파트는 필터링 했다. ㅠ
+* 1년새 강남 평균 2.1억 증가 실화?
+  
+ <img src="https://github.com/handbell-H/-visualization/blob/main/8.%20ridgeplot%20by%20seoul%20apt%20price_2%20year%20comparison/8.%20ridgeplot%20by%20seoul%20apt%20price_2%20year%20comparison.png" width=100% height=100%/>
