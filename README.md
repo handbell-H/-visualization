@@ -68,6 +68,6 @@ Language : Python
 9. 생활인프라 양호지역 내 총인구 비율 vs 고령인구 비율
 * DATA : (국토지리정보원 국토정보플랫폼 - 국토통계지도 - 국토지표) & (국토교통부 국토정책과 국토모니터링 사업 내부자료)
 * 생활인프라 충족도 11점 이상인 지역에 사는 총인구 비율 vs 거주인구 비율
-* 인구 규모별로 차이가 뚜하다.
+* 인구 규모별로 차이가 뚜렷하다.
   
  <img src="https://github.com/handbell-H/-visualization/blob/main/9.%20dumbbel%20plot%20by%202%20ratios/9.%20dumbbel%20plot%20by%202%20ratios.png" width=70% height=70%/>
